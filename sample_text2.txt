@@ -1,0 +1,166 @@
+Pokémon GO
+Origem: Wikipédia, a enciclopédia livre.
+Ambox grammar.svg
+Esta página ou secção precisa de correção ortográfico-gramatical.
+Pode conter incorreções textuais, podendo ainda necessitar de melhoria em termos de vocabulário ou coesão, para atingir um nível de qualidade superior conforme o livro de estilo da Wikipédia. Se tem conhecimentos linguísticos, sinta-se à vontade para ajudar.	
+Pokémon GO
+
+Desenvolvedora(s)	Niantic, Inc. Nintendo
+Publicadora(s)	The Pokémon Company
+Distribuidora(s)	The Pokémon Company
+Niantic, Inc.
+
+Compositor(es)	Junichi Masuda[1]
+Plataforma(s)	iOS
+Android
+Série	Pokémon
+Data(s) de lançamento	
+[Expandir]6 de julho de 2016
+Gênero(s)	Realidade aumentada
+Classificação	Permitido para todas as idades i DEJUS (Brasil)
+Inadequado para menores de 6 anos i ESRB (América do Norte)
+Permitido para todas as idades i OFLCA (Austrália)
+Inadequado para menores de 3 anos i PEGI (Europa)
+Inadequado para menores de 6 anos i USK (Alemanha)
+Site Oficial
+Pokémon GO é um jogo eletrônico free-to-play de realidade aumentada voltado para smartphones. Foi desenvolvido por uma colaboração entre a Niantic, Inc., a Nintendo e a The Pokémon Company para as plataformas iOS e Android.[2][3] O jogo foi lançado em julho de 2016 em alguns países do mundo. Fazendo uso do GPS e câmera de dispositivos compatíveis, o jogo permite aos jogadores capturar, batalhar, e treinar criaturas virtuais, chamadas Pokémon, que aparecem nas telas de dispositivos como se fossem no mundo real. Um dispositivo opcional, o Pokémon Go Plus, um acessório que irá alertar os usuários quando Pokémons estiverem nas proximidades, está previsto para lançamento em breve.
+
+Pokémon Go foi lançado com críticas mistas. Revisores elogiaram a experiência geral do jogo e o incentivo para a aventura no mundo real, embora salientando questões técnicas que eram aparentes no lançamento. Ele rapidamente se tornou um dos aplicativos móveis mais utilizados, logo após o lançamento e foi baixado por mais de 75 milhões de pessoas em todo o mundo. Ele foi creditado com a popularização baseadas em localização e realidade aumentada do jogo, bem como para a promoção da atividade física. Ele também atraiu controvérsia por alguns de seus jogadores terem se envolvido em acidentes e perturbarem visitantes de alguns locais públicos, como o Museu do Holocausto dos Estados Unidos em Washington, DC.
+
+Índice  [esconder] 
+1	Jogabilidade
+1.1	PokéStop
+2	Desenvolvimento
+2.1	Acessório
+3	Lançamento
+3.1	Disponibilidade regional
+3.2	Resposta comercial
+3.2.1	Nintendo
+3.2.2	Outras empresas
+3.3	Problemas técnicos
+4	Recepção
+4.1	Resposta da crítica
+4.2	Downloads e vendas
+4.3	Comunidade e impacto cultural
+4.4	Críticas e incidentes
+5	Ver também
+6	Notas
+7	Referências
+8	Ligações externas
+Jogabilidade
+
+Capturas de cenas de Pokémon Go.
+Utilizando a câmera de um smartphone, mapas e a localização GPS do jogador, o jogo coloca os pokémon no mundo real a partir da tecnologia de realidade virtual. A proposta é fazer com que o jogador explore as regiões de seu próprio mundo com objetivo de completar a Pokédex e vencer os estágios. O jogo utiliza uma mecânica semelhante ao do jogo Ingress, também desenvolvido pela Niantic Inc., que utiliza o GPS do smartphone para localizar a posição do jogador, a qual consequentemente será a posição de seu personagem no mundo virtual.
+
+Conforme o jogador anda em sua cidade, vários pokémon selvagens podem aparecer no mapa, dependendo do tipo de região em que se encontra. Com isso, ao estar próximo a uma praia ou rio, por exemplo, será mais fácil encontrar Pokémon do tipo água. Ao encontrar um Pokémon, entra-se no modo de captura no qual é necessário mirar precisamente o Pokémon e arremessar a Pokébola. O Pokémon pode tentar desviar ou rebater a Pokébola, sendo necessário ter precisão ao movimentar o celular. Neste modo, o jogador pode optar por capturar num cenário virtual semelhante aos jogos tradicionais de Pokémon ou ativar o modo câmera, que substitui o cenário 3D do jogo pelo cenário do mundo real, ou seja, o lugar exato quê o usuário está, mostrando o Pokémon na sua frente, através do seu celular.
+
+Existem diversas diferenças da versão beta em comparação ao jogo atual, sendo notável a presença da imagem de um professor que orienta o jogador sobre os pokémon, ensinando-o a jogar, assim como nos jogos originais da série, e o re-design completo dos modelos em 3D dos treinadores, que agora possuem uma aparência mais semelhante ao estilo anime. Até o momento, apenas os 151 primeiros Pokémon estão disponíveis, e ainda não há a opção de trocar os Pokémon com um amigo localmente.[4]
+
+O cenário do mundo real pode ser substituído por um cenário virtual a qualquer momento, capturando os Pokémon e realizando missões, como, por exemplo, evoluir o seu personagem ao andar 100km. Quanto maior o nível do personagem do jogador, mais fácil será para achar Pokémon mais fortes. É possível, também, ganhar itens como Pokébolas. Dependendo da cidade, o jogador pode achar PokéStops, que normalmente são localizadas em pontos turísticos, nos quais é possível recolher itens caso ninguém tenha passado pelo lugar nos 5 minutos anteriores. Nessas PokéStops são distribuídas poções, pokébolas e até mesmo ovos Pokémon que, assim como no jogo, irão chocar conforme o jogador anda pela cidade.
+
+
+Jogadores em Anchorage, Alasca, reunidos em um PokéStop num parque local.
+Assim como nos jogos oficiais da série, também se pode encontrar estágios. Ao encontrar um estágio, se é obrigado a escolher um time, Vermelho, Azul ou Amarelo, cada qual representando a cor de uma das três aves lendárias, Moltres, Articuno e Zapdos. Se este ginásio for do mesmo time que o do usuário, ele pode treinar nele e evoluir seus Pokémon. Caso se tenha encontrado um ginásio inimigo, então irá batalhar com todos os membros e, caso ganhe, poderá tomar este ginásio para o time ao qual pertence, tornando-se o dono dele. Neste modo de batalha, também pode-se optar por utilizar o modo câmera para ver o Pokémon batalhando no mundo real. Caso os itens acabem e não haja uma PokéStop por perto, o usuário pode optar por comprar itens na loja do jogo.[5]
+
+Esta não é a primeira vez que a Nintendo junta a franquia Pokémon com a Realidade Aumentada. No jogo Pokémon Dream Radar, lançado para Nintendo 3DS, o console era utilizado para tentar capturar os Pokémons que apareciam ao redor olhando pela tela do 3DS. Os Pokémons capturados podiam ser transferido para os jogos Pokémon Black 2 e White 2. Entretanto, foi apenas em Pokémon GO que tal tecnologia foi utilizada na franquia de maneira tão profunda, visto que o jogo foca totalmente na realidade aumentada literalmente colocando os Pokémons no mundo real interagindo com elementos reais através do celular.
+
+PokéStop
+PokéStop[6] é o termo utilizado no jogo para designar os pontos onde o jogador pode conseguir itens como poções, incensos, revives, doces, pokébolas (pokéballs), ovos (eggs) ou até mesmo Pokémon. Nestes locais, não há a necessidade de lutar para conseguir Pokémon quando estes estão disponíveis nos PokéStops. Os demais itens também são gratuitos.[7]
+
+Para encontrar os PokéStops, o jogador deve se orientar pelo mapa do jogo e se aproximar com seu smartphone da localização indicada. Assim, ele poderá pegar o que está disponível no local, ao girar um disco azul que irá surgir ao interagir com o lugar. Há a possibilidade de simplesmente sair do PokéStop para que todos os itens sejam apanhados, no entanto, não funciona se estiver em deslocamento em um carro ou ônibus.[7]
+
+Os PokéStops podem estar localizadas em shoppings, monumentos, praças, parques e lugares públicos em geral. Existem em maior concentração nas grandes cidades do que nas pequenas, mas em geral não é necessário um deslocamento muito grande para encontrar um, sendo que são mais comuns do que os ginásios.[7]
+
+Desenvolvimento
+
+John Hanke, o fundador da empresa Niantic.
+O conceito para o jogo foi concebido em 2014 por Satoru Iwata da Nintendo e Tsunekazu Ishihara da The Pokémon Company como uma brincadeira de 1 de abril em colaboração com Google, chamado Pokémon Challenge.[8] Ishihara tinha sido um desenvolvedor fã do jogo de realidade aumentada anterior da Niantic, Ingress, e viu o conceito do jogo como um jogo perfeito para série Pokémon.[9] A Niantic eventualmente iria utilizar dados de Ingress para preencher locais com PokéStops e ginásios dentro de Pokémon Go.[10] Em 10 de dezembro de 2015, Ishihara dedicou seu discurso no anúncio do jogo a Iwata, que tinha morrido dois meses antes.[11] A trilha sonora do jogo foi escrita pelo compositor de longa data da série Pokémon, Junichi Masuda, que também contribuiu com algum design do jogo.[12] Entre os designers visuais está Dennis Hwang, que já havia trabalhado na Google, e criou o logotipo do Gmail.[13]
+
+Em 4 de março de 2016, começou a fase de testes de Pokémon GO no Japão, e em 7 de abril do mesmo ano começaram os testes na Nova Zelândia e Austrália. Mais tarde, em 16 de maio, a Niantic anunciou em seu blog que o jogo entraria em fase de testes também nos Estados Unidos.[14][15] O teste chegou ao fim em 30 de junho.[16]
+
+Em 24 de julho, John Hanke revelou as aparências dos três líderes de equipe na Comic-Con 2016: Candela (Time Valor), Blanche (Time Místico), e Spark (Time Instinto).[17] Hanke comentou que aproximadamente 10% das ideias para o jogo foram implementadas. Atualizações futuras, incluindo novos Pokémons e trocas entre os jogadores,[18] bem como a implementação de Pokémon Centers em PokéStops, correções na função de busca de Pokémons nos arredores e treinamento mais fácil foram também confirmados.[19] Hanke também afirmou que a Niantic seria a responsável pelo suporte do jogo nos próximos anos.[18]
+
+Acessório
+O Pokémon Go Plus é um dispositivo ainda não lançado equipado com Bluetooth que permitirá aos jogadores executar determinadas ações no jogo sem olhar para o seu smartphone.[20] Quando um jogador estiver perto de um Pokémon ou PokéStop, por exemplo, o Plus vibrará.[20] O jogador poderá, em seguida, pressionar o botão para capturar um Pokémon em sua pulseira, sem poder, entretanto, verificar sua captura até que o acessório esteja conectado ao smartphone para transferir as informações.[9]
+
+O lançamento foi originalmente previsto para final de julho,[21] mas foi adiado para setembro de 2016.[22] O visual do acessório é uma combinação de uma Pokébola com o formato característico do pin usado no Google Maps.[20] Segundo Hanke, A decisão de criar um dispositivo novo em vez de um aplicativo para smartwatches tem fundamento na acessibilidade a jogadores para os quais um relógio inteligente possa ser proibitivamente caro.[23] O Plus, que teve um preço de pré-venda de US$34,99,[24] foi catalogado no eBay por mais de US$100 após o fim dos estoques da Amazon, GameStop e da loja oficial Pokémon.[25]
+
+Lançamento
+Disponibilidade regional
+Datas para lançamentos globais de Pokémon Go[Expandir]
+O jogo foi lançado na Austrália, Nova Zelândia e nos Estados Unidos em 6 de julho de 2016. Devido à demanda dos servidores após o lançamento, o CEO da Niantic, John Hanke, afirmou que o lançamento na maioria das outras regiões havia sido paralisado até que a Niantic estivesse mais confortável.[50][51] Os lançamentos europeus começaram em 13 de julho, e o jogo tornou-se disponível para a maioria dos países no continente ao longo dos próximos dez dias.[36] O lançamento japonês foi inicialmente projetado para 20 de julho;[52] no entanto, depois do vazamento de um acordo de patrocínio com o McDonald's, o lançamento foi adiado[53] e, foi finalmente, ocorrido em 22 de julho.[40][41] Na França o lançamento previsto para 15 de julho foi adiado até 24 de julho devido a preocupações com segurança na sequência de um ataque terrorista em 14 de julho, em Nice.[54] Após o fechamento de aplicativos e sites de terceiros no final de julho, reduzindo significativamente a tensão nos servidores, a Niantic foi capaz de dar continuidade ao lançamento mundial. No Brasil, após atrasos e reclamações, o jogo foi oficialmente lançado no dia 3 de agosto, e já pode ser baixado nas lojas de aplicativos Google Play e App Store.[55][56] A América do Sul e Central e a maior parte do Sudeste Asiático, receberam o jogo no início de agosto.[44][47] A Indonésia foi o primeiro país asiático a ter o jogo no ar, desde o início de Julho, apesar do jogo ter sido lançado oficialmente nessa região apenas no dia 6 de Agosto.[57][58] Pokémon Go, em breve, deverá funcionar em 200 países e regiões, e aumentar ainda mais o faturamento da Nintendo.[59]
+
+Na Coreia do Sul, existem grandes restrições sobre o uso de dados do mapeamento online e os jogadores descobriram um ginásio em Panmunjeom, ao longo da Zona Desmilitarizada da Coreia; no entanto, a Niantic posteriormente o removeu do jogo.[60] Após o lançamento de Pokémon Go no Japão, o jogo também se tornou jogável em partes de Busan, bem como em partes da cidade consideradas como pertencentes à área de mapeamento do Japão devido à proximidade com a Ilha de Tsushima.[61]
+
+Na China continental, os serviços do Google são proibidos pelo Grande Firewall. Para burlar a limitação, jogadores de Pokémon Go na China usaram contas australianas da App Store e falsificação da localização GPS para usar os serviços do Google e porque não existem Pokémon para pegar na China. Muitos chineses também baixaram um clone conhecido como City Spirit Go, que foi lançado pouco depois do período de testes de Pokémon Go no Japão.[62]
+
+Apesar de não ser oficialmente lançado no Egito ainda, Pokémon Go é jogável, e tornou-se popular entre os jovens egípcios, que usam "hacks", de acordo com Ahram Online. Pokémon podem ser encontrados em todo o Egito, com vários jogadores com fotos postadas de Pokémon que encontraram em todo o Egito, inclusive dentro de locais de culto, tais como igrejas e mesquitas.[63]
+
+Durante o seu lançamento no sudeste asiático, o jogo excluía oficialmente Myanmar (Burma), mas os jogadores de Rangum, Mandalay e Taunggyi descobriram que o jogo estava totalmente funcional após seu lançamento na Tailândia.[64]
+
+Resposta comercial
+Nintendo
+
+Um gráfico do valor das ações da Nintendo em julho de 2016 que descreve a onda de investimento na sequência de Pokémon Go nas liberações em 7 de julho e queda subsequente em 25 de julho.
+Os investidores foram impulsionados pela resposta ao lançamento inicial do Pokémon Go no dia 7 de julho, com o preço das ações da Nintendo subindo 10%.[65] Em 14 de julho, a subida acumulada chegou a 50%.[66] Apesar da Nintendo, única proprietária de uma participação de 33% na franquia Pokémon, receber apenas 30% da receita de vendas de Pokémon Go, o aumento do preço das ações de pós-lançamento fez a companhia ter seu valor aumentado em aproximadamente US$14,5 bilhões.[67][68] A tendência continuou por mais de uma semana após o lançamento do jogo e, até 19 de julho, o valor das ações da Nintendo mais que dobrou em relação ao pré-lançamento. O volume de negócios atingiu um recorde de ¥703,6 bilhões (aproximadamente US$6,6 bilhões); e a negociação das ações foi responsável ​​por um quarto de todos os comércios na Bolsa de Valores de Tóquio.[69] O Financial Times acredita que os investidores estavam especulando não com Pokémon Go em si, mas por futuras versões de aplicativos da Nintendo sendo tão bem sucedidos quanto os consoles portátis.[70] A Nintendo planeja lançar mais quatro jogos para smartphones em março de 2017, e os investidores observam que Pokémon Go mostrou que a Nintendo ainda tem algumas das "propriedades intelectuais mais valiosas do mundo", com séries como Super Mario, The Legend of Zelda e Metroid.[71] As empresas Nintendo, The Pokémon Company e Niantic Inc. investiram mais de US$20 milhões em Pokémon GO e, caso o jogo se revele um sucesso, o estúdio receberá US$10 milhões adicionais.[72]
+
+Até 22 de Julho, a Nintendo ganhou ¥1800000000000 (US$17,6 bilhões) em valor de mercado desde o lançamento do jogo.[73] No entanto, após a clarificação da Nintendo que a empresa não produziu Pokémon Go, nem ter ganhos financeiros tangíveis a partir dele, suas ações caíram 18% a uma perda de ¥708.000.000.000 (US$6,7 bilhões) em valor de mercado, em 25 de julho.[73][74] Este foi o maior declínio em um único dia para Nintendo desde 1990 e a troca máxima de um dia de finanças permitidos na Bolsa de Tóquio. A empresa tem um valor aproximado de 13% de "participação económica efetiva" no aplicativo de acordo com a Macquarie Securities.[73]
+
+Outras empresas
+O aumento de ganhos não foi apenas da Nintendo, First Baking Co., Tomy, TV Tokyo, e Bank of Kyoto tiveram venda significativa e ganhos recorde.[75] Da mesma forma, Zagg, que é dono de uma empresa que fabrica caixas de baterias, vê um aumento de 25% em seu estoque em relação ao Pokémon Go.[76]
+
+Problemas técnicos
+No lançamento, o jogo sofreu paralisações frequentes dos servidores devido ao uso extremo.[77] Falhas frequentes e erros de autenticação atormentaram o lançamento do jogo e persistido por vários dias. Nos dois primeiros dias após o lançamento, os jogadores não foram capazes de acessar o jogo através de suas contas Pokémon Trainer Club, com somente contas baseadas no Gmail sendo capazes de obter acesso ao jogo.[78] Servidores voltaram a sofrer interrupções frequentes na Austrália em 11 de julho; alguns jogadores culparam os jogadores do Reino Unido por contornar os servidores locais e utilizar os servidores australianos para jogar o jogo antes de seu lançamento oficial.[79] Em 16 de julho, algumas horas após o lançamento em muitos países europeus, os servidores do jogo ficaram temporariamente fora do ar.[80] A interrupção foi reivindicado por um grupo de hackers chamado "PoodleCorp", que disse que eles usaram um ataque DDoS para derrubá-los.[81] Houve também uma falha na página oficial do Twitter de Pokémon Go e o problema foi corrigido mais tarde no mesmo dia.[80][82] No dia seguinte, os servidores caíram novamente quando o jogo foi lançado no Canadá.[83] No início da instalação de Pokémon Go no sistema iOS, o aplicativo exigia que os usuários fornecessem suas contas do Google, permitindo o acesso ao aplicativo para "jogadores que utilizam Gmail, Google Drive e qualquer outro conteúdo dentro de suas contas do Google".[84][85][86] The Pokémon Company e Niantic respondeu às preocupações, reconhecendo que o iOS, no momento, "... erroneamente solicita permissão de acesso completo para o usuário com conta no Google ..."[87][88] No entanto, Adam Reeve, a pessoa que inicialmente fez reivindicações dos problemas de segurança em um Tumblr, depois voltou atrás em sua alegação e disse que não era possível "100 por cento de certeza"[89][90] que era válido. Dan Guido, CEO da empresa de segurança Trail of Bits, analisou a programação do aplicativo e descobriu que, embora o jogo fez solicitar de acesso, isso não permitia o uso de terceiros, como inicialmente transmitia.[89] Guido descobriu que este fez habilitar a Niantic acessar endereços de email e números de telefone de forma não intencional de pessoas. Uma atualização subsequente de iOS reduziu o alcance do acesso.[91] Niantic também emitiu uma declaração garantindo aos usuários que nenhuma informação foi coletada e nem qualquer informação além do que era necessário para usar o aplicativo acessado.[90]
+
+Recepção
+Resposta da crítica
+[Esconder] Recepção
+Resenha crítica
+Publicação	Nota
+Destructoid	3.5/10[92]
+GameSpot	7/10[93]
+IGN	7.0/10[94]
+Polygon	7.5/10[95]
+The Guardian	2 de 5 estrelas.[96]
+Time	3 de 5 estrelas.[97]
+Pontuação global
+Publicação	Nota média
+Metacritic	68/100[98]
+Pokémon Go foi lançado com críticas mistas de acordo com a revisão do site Metacritic.[98] Após a liberação, os críticos chamaram a experiência de agradável, mas observaram questões técnicas do jogo.[93][94][99]
+
+Os críticos elogiaram vários aspectos do Pokémon Go. Oscar Dayus (Pocket Gamer) disse que o jogo foi uma experiência muito agradável e continuou com a forma como "a natureza muito pessoal de apanhar Pokémon em sua própria vizinhança me fez sorrir mais do que qualquer jogo tem me feito há anos".[99] Jeremy Parish (US gamer) comparou o jogo e seus aspectos sociais a um jogo online multijogador.[100] Os revisores também elogiaram o jogo, que incentiva a prática de exercício físico. Terri Schwartz (IGN) disse que era "secretamente o melhor aplicativo de exercício lá fora" e que mudou a sua rotina de caminhada diária.[101] Patrick Allen (Lifehacker) escreveu um artigo com dicas sobre como trabalhar usando Pokémon Go.[102] Julia Belluz (Vox) disse que poderia ser o "maior modismo de saúde não intencional de sempre" e escreveu que um dos resultados do jogo que os desenvolvedores podem não ter percebido foi que "parece estar levando as pessoas a se movimentar".[103]
+
+Philip Kollar e Allegra Frank (Polygon) ambos concordaram que "Pokémon Go é uma experiência social emocionante", embora eles disseram que não tinham certeza de quanto tempo o jogo duraria, e dependendo de como atualizações frequentemente da Niantic, ele poderia ser o último para os próximos anos ou acabar como "uma mania que o mundo do jogo inteiro está falando por algumas semanas e depois é esquecido".[95]
+
+Outros críticos expressaram opiniões mais negativas do jogo, com muitos citando falhas frequentes e outras questões técnicas, juntamente com uma jogabilidade rasa.[97] Kallie Plagge (IGN), disse que, apesar de o jogo faltando em polonês e profundidade, a experiência geral foi boa. Matt Peckham (Time) criticou o jogo por suas falhas frequentes.[97] Mike Cosimano (Destructoid) também teve problema com o jogo, dizendo que a ideia original mostrou a promessa, mas foi indevidamente executado.[92] Kat Brewster (The Guardian) escreveu que, embora ela achou que Pokémon Go não foi um bom jogo, foi "uma grande experiência".[96] Os problemas de servidor também receberam imprensa negativa. Miguel Concepcion (GameSpot) disse que apesar dele perceber forte apelo social do jogo e design visual, o jogo "é uma confusão de buggy em todos os níveis", como uma das razões os constantes problemas dos servidores.[93] Outra falha que apareceu alguns dias depois do lançamento foi a "falha de três etapas", os revisores também usaram esse bug a imprensa negativa. Patricia Hernandez (Kotaku), disse que "a falha de três etapas acrescenta ao que tem sido o lançamento terrível de Pokémon Go".[104] Paul Tassi (Forbes) disse que, devido a este erro é "melhor o palpite de ninguém, onde Pokémon são 99% do tempo "e que" torna quase todos os métodos tradicionais de monitoramento sem sentido".[105]
+
+Downloads e vendas
+Pokémon Go tornou-se rapidamente o aplicativo mais baixado na App Store americana,[106][107] sendo o jogo que em menor tempo após o lançamento a alcançar o topo da App Store e do Google Play, batendo Clash Royale.[108] Dois dias após o lançamento, já havia sido instalado em mais de 5% dos dispositivos Android nos Estados Unidos, de acordo com SimilarWeb.[109] De acordo com SensorTower, o jogo foi baixado mais de 10 milhões de vezes dentro de uma semana de lançamento, tornando-se a tal aplicação mais rápida de fazê-lo.[110] Em 12 de julho, tornou-se o jogo móvel com maior atividade nos Estados Unidos, com 21 milhões de usuários ativos, superando Candy Crush Saga, que marcou 20 milhões.[111] Na semana do lançamento do jogo, servidores australianos tiveram problemas em Sydney, Melbourne e Brisbane devido à popularidade do jogo.[112] Em contrapartida, SensorTower estima-se 15 milhões foram baixados em todo mundo em 13 de julho.[113] Em 15 de julho, aproximadamente 1,3 milhões de pessoas o jogaram nos Países Baixos, mesmo sem o aplicativo ter sido oficialmente lançado no país até a data.[114] Em 20 de julho, mais de 30 milhões de pessoas baixaram o jogo em todo o mundo.[110] No dia do lançamento japonês, mais de 10 milhões de pessoas baixaram o jogo,[115] incluindo 1,3 milhões nas primeiras três horas.[116] Através de compras no jogo, foram gerados mais de US$35 milhões em receita até 20 de julho. A partir de usuários apenas de iOS, o jogo gerou aproximadamente US$1,6 milhões em receita diária.[117] A utilização diária média do aplicativo em dispositivos Android ultrapassou Snapchat, Tinder, Twitter, Instagram e Facebook.[118]
+
+Nos EUA, o aplicativo fez um sucesso retumbante: 20% dos usuários de Android no país já estavam usando o jogo em cerca de uma semana após o lançamento. Ele também era a 10ª funcionalidade mais usada nos smartphones Android. Se desconsideradas as funções de sistema, como abrir a tela inicial, o Pokémon GO era a 4ª atividade mais realizada em smartphones Android, atrás apenas do uso do Facebook, das buscas no Google e do uso da agenda de contatos, segundo dados da consultoria Kantar.[119]
+
+Comunidade e impacto cultural
+O jogo tem sido referido como um "fenômeno de mídia social", que reuniu as pessoas de todas as esferas da vida.[120][121] Pontos de numerosos meios de comunicação a que se refere o aumento da popularidade como "Pokémon Go Mania" ou simplesmente "Pokémania".[122][123] A enorme popularidade do jogo resultou em vários efeitos positivos incomuns. Por exemplo, o jogo permite jogadores ajudarem a capturar criminosos e denunciar crimes em andamento,[124][125][126][127] e até auxiliado relações com a comunidade da aplicação da lei,[128] embora com ressalvas.[129] Negócios se beneficiaram da presença próxima de PokéStops (ou com seus próprios PokéStops) com o afluxo concomitante de pessoas,[130][131][132] e a intensa exploração das comunidades trouxe a história local para o primeiro plano.[133] Alguns estabelecimentos fazem compra de iscas no jogo para atrair os jogadores para PokéStops em sua propriedade.[134] Dentro de uma semana de seu lançamento, um mercado secundário que surgiu no jogo, tanto para a revenda de contas de alto nível sobre Craigslist e PlayerUp, e por a venda de consultoria especializada em Thumbtack.[135][136] A operadora celular T-Mobile nos Estados Unidos, começou uma oferta de dados livres por um ano para sessões Pokémon Go,[137][138] e Yelp adicionou um filtro que só mostra as empresas que tem um PokéStop nas proximidades.[139][140] Parques nacionais nos Estados Unidos viram um afluxo de visitantes incomum, devido ao jogo, com "centenas ou milhares" de pessoas que visitam o National Mall e Memorial Park em Washington, D.C. no fim de semana seguinte Pokémon Go foi liberado no país.[141] pequenos museus com PokéStops colocados em exposições também relataram aumento da frequência, como o Museu McNay Art, em San Antonio, Texas, e o Museu Morikami e Jardim Japonês em Boca Raton, Flórida.[134] Organizações de caridade, também buscaram o envolvimento dos jogadores, com abrigos de animais oferecendo cães que caminham com as pessoas que querem chocar ovos.[142]
+
+
+Os jogadores capturando Pokémons em torno de uma "academia", em um parque na cidade de Brest, França.
+Eduardo Paes, prefeito do Rio de Janeiro, afirmou que esperava que o aplicativo seria lançado para o Brasil, antes do início dos Jogos Olímpicos de 2016 na cidade,[143] e os candidatos presidenciais dos Estados Unidos Hillary Clinton e Donald Trump mencionado o aplicativo durante a suas campanhas eleitorais de 2016.[144][145] No final de julho de 2016, durante um discurso público, o presidente da república italiana Sergio Mattarella comparou uma questão política sobre a data do início de um referendo como tão absurdo quanto a caça de Pokémon.[146] Logo após o lançamento do jogo, o lutador de artes marciais mistas do Bellator Michael Page celebrou um nocaute de seu oponente, Evangelista Santos, colocando um vermelho chapéu parecido com o de Ash Ketchum e jogando uma Pokébola na direção de Santos.[147] Em 25 de julho, Dwayne Johnson lançou um vídeo promocional com MatPat e Ali-A com ele mesmo como um Pokémon difícil e raro.[148]
+
+O jogo foi creditado por popularizar realidade aumentada,[149] e foi elogiado por grupos não-binários por permitir aos jogadores que escolham um "estilo" em vez de "gênero".[150]
+
+A música tema de Pokémon, do álbum Pokémon 2.B.A. Master da série animada viu um aumento de 630% de ouvintes na plataforma de streaming de música Spotify durante o mês de lançamento do jogo.[151] Enquanto isso, serviços de streaming como Hulu têm experimentado um aumento de audiência da série e filmes Pokémon.[152] Um canal de Twitch, Twitch Plays Pokémon Go, foi criado para imitar o canal colaborativo Twitch Plays Pokémon, permitindo que os telespectadores direcionem um avatar virtual no jogo usando um iPhone programado para falsificar a sua localização.[153]
+
+Críticas e incidentes
+
+Um sinal de mensagem variável em Fontainebleau, Florida, adverte os motoristas a não jogar Pokémon Go durante o trânsito.
+
+Aviso no aeroporto de Foz do Iguaçu proibindo o jogo na área de movimentação de aeronaves.
+O aplicativo foi criticado por usar locais como cemitérios e memoriais para adicionar Pokémons,[154] incluindo o Museu Estatal de Auschwitz-Birkenau,[155] o Museu Memorial do Holocausto dos Estados Unidos,[156] o Memorial & Museu Nacional do 11 de Setembro,[157] e o Cemitério Nacional de Arlington.[158] O jogo provocou reclamações da empresa holandesa ProRail,[159] que disse que os jogadores entraram em suas vias férreas e quartéis de bombeiros, pedindo aos jogadores para não impedir os funcionários de trabalhar ao se reunirem nas proximidades.[160]
+
+A distribuição de PokéStops e ginásios no jogo (baseados nos portais de Ingress, jogo de realidade aumentada com temática em ficção científica) foi apontado como sendo mais disperso em muitos bairros minoritários, em um reflexo da demografia americana.[161] No subúrbio de Rhodes em Sydney, tornou-se grande o número de jogadores que capturam pokémons em sua área.[162]
+
+Vários departamentos de polícia em vários países emitiram avisos, alguns como tongue-in-cheek, em relação ao desatento na condução, invasão de propriedade, e sendo alvo de criminosos, devido a jogadores inconscientes dos arredores do próprio ambiente.[163][164] Pessoas têm sofrido várias lesões relacionados ao jogo,[165][166][167][168] jogadores bósnios foram avisados ​​para ficar fora dos campos de minas originadas da guerra bósnia, na década de 1990.[169] Em 20 de julho de 2016, relatou-se que um garoto de 18 anos de idade em Chiquimula, Guatemala foi baleado e morto enquanto jogava tarde da noite.[170] Esta foi a primeira morte relatada em conexão com o aplicativo. O primo do rapaz de 17 anos de idade, que acompanhava a vítima, levou um tiro no pé. A polícia especula que os atiradores utilizaram recurso GPS do jogo para encontrar os dois.[171] No Japão, o primeiro acidente ocorreu poucas horas depois do lançamento do jogo.[172]
+
+Al Azhar no Cairo, Egito, descreveu o jogo como "mania prejudicial",[173] um comitê de segurança nacional parlamentar considerou-o uma ferramenta de espionagem. Um líder cossaco declarou que "cheira a satanismo", Kuwait proibiu o jogo no território do governo, autoridades da Indonésia consideraram-o como ameaça de segurança nacional e em Israel, as Forças de Defesa de Israel proibiram o jogo em bases do Exército, fora outras considerações de segurança.[174] Na Arábia Saudita, o Secretário-Geral do Conselho Sênior de Eruditos declarou o jogo proibido, baseando-se em uma fátua de 2001 que proibiu o jogo de cartas de Pokémon, comparando-o a uma forma de jogo de azar. Assim sendo, alegou que a aplicação eletrônica necessita de uma nova decisão.[175] Isso também foi seguido por líderes islâmicos indianos e malaios que dizem para outros muçulmanos indianos e malaios para evitarem o jogo.[176][177] Na Rússia, manifestou-se preocupações sobre o lançamento, com Nikolay Nikiforov, o Ministro das Comunicações e Mídia de massa da Rússia, suspeitando de que agências de inteligência estrangeiras pudessem estar utilizando a aplicação para coletar informações, enquanto alguns grupos religiosos afirmam que ela seja demoníaca.[178] O Conselho Superior de Espaços Virtuais do Irã proibiu oficialmente o jogo em 5 de agosto, devido a preocupações de segurança.[179]
+
+Pokémon Go também tem sido criticado por problemas de acessibilidade do jogo por jogadores com deficiências físicas. O jogo é mais difícil para aqueles que não são capazes de se movimentar, exigindo que os jogadores tenham que caminhar e ter destreza manual para experimentar o jogo. The AbleGamers Foundation enviou uma lista de propostas de modificação para Niantic.[180][181][182]

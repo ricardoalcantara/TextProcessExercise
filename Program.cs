@@ -10,17 +10,19 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
+            var util = new Util();
             var stopWatch = new System.Diagnostics.Stopwatch();
 
             var fileStopWords = "stopwords.txt";
-            var fileText = "sample_text2.txt";
+            //var fileText = "sample_text2.txt";
 
             stopWatch.Start();
-            var stopWords = File.ReadAllLines(fileStopWords);
-            Console.WriteLine($"stopWords: {stopWords.Length} \t {stopWatch.ElapsedMilliseconds} ms");
+            var stopWords = File.ReadAllLines(fileStopWords).Select( x => x.ToLower());
+            Console.WriteLine($"stopWords: {stopWords.Count()} \t {stopWatch.ElapsedMilliseconds} ms");
             stopWatch.Restart();
 
-            var text = File.ReadAllText(fileText);
+            //var text = File.ReadAllText(fileText)?.ToLower();
+            var text = util.GetHTTPText("https://pt.wikipedia.org/wiki/Pok%C3%A9mon_GO", "//div[@id='bodyContent']").Result.ToLower();
             Console.WriteLine($"ReadAllText \t {stopWatch.ElapsedMilliseconds} ms");
             stopWatch.Restart();
             
@@ -30,12 +32,12 @@ namespace ConsoleApplication
             Console.WriteLine($"Replace \t {stopWatch.ElapsedMilliseconds} ms");
             stopWatch.Restart();
 
-            var tokenA = tokenizerA(text);
+            var tokenA = util.TokenizerA(text);
 
             Console.WriteLine($"tokenA {tokenA.Count()} \t {stopWatch.ElapsedMilliseconds} ms");
             stopWatch.Restart();
 
-            var tokenB = tokenizerA(text);
+            var tokenB = util.TokenizerB(text);
 
             Console.WriteLine($"tokenB {tokenB.Count()} \t {stopWatch.ElapsedMilliseconds} ms");
             stopWatch.Restart();
@@ -48,14 +50,14 @@ namespace ConsoleApplication
 
             Console.WriteLine($"words: {words.Length}");
 
-            var cw = new Regex("[a-zA-Z0-1]");
+//            var cw = new Regex("[a-zA-Z0-1]");
 
             Console.WriteLine();
 
             var stemmer = new PortugueseStemmer();
             var cWords = tokenB
-                            .Select(x => stemmer.WordStemming(x.ToLower()))
-                            .Where( x => cw.IsMatch(x) && stopWords.All( y => y.Trim().ToLower() != x.Trim().ToLower()))
+                            .Where( x => x.Length > 2 && stopWords.All( y => y.Trim() != x.Trim()))
+                            .Select(x => stemmer.WordStemming(x))
                             .GroupBy(x => x).ToList();
 
             Console.WriteLine($"Select, Where n GroupBy \t {stopWatch.ElapsedMilliseconds} ms");
@@ -70,58 +72,6 @@ namespace ConsoleApplication
             {
                 Console.WriteLine($"{word.Key}: {word.Count()}");
             }
-        }
-
-        public static List<string> tokenizerA(string text) {
-            var splitRegex = new Regex("[,.?! ]");
-
-            var list = new List<string>();
-
-            string tmp = string.Empty;
-
-            foreach(char c in text) {
-                if (c == ' ') {
-                    if (tmp.Length > 0) {
-                        list.Add(tmp);
-                        tmp = string.Empty;
-                    }
-                } else if (splitRegex.IsMatch(c.ToString())) {
-                    if (tmp.Length > 0) {
-                        list.Add(tmp);
-                        tmp = string.Empty;
-                    }
-
-                    list.Add(c.ToString());
-                } else {
-                    tmp += c;
-                }                
-            }
-
-            return list;
-        }
-
-        public static List<string> tokenizerB(string text) {
-            var splitRegex = new Regex("[,.?!]");
-
-            var list = new List<string>();
-
-            string tmp = string.Empty;
-
-            foreach(char c in text) {
-                if (!splitRegex.IsMatch(c.ToString())) {
-                    if (c == ' ') continue;
-                    tmp += c;
-                } else {
-                    if (tmp.Length > 0) {
-                        list.Add(tmp);
-                        tmp = string.Empty;
-                    }
-
-                    list.Add(c.ToString());
-                }                           
-            }
-
-            return list;
-        }
+        }        
     }
 }
